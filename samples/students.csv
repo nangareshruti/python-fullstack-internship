@@ -1,0 +1,8 @@
+name,email,course,age
+Asha Patil,asha.patil@example.com,Python,21
+Ravi Kumar,ravi.kumar@example.com,Java,22
+Neha Joshi,neha.joshi@example.com,Django,20
+Bad Email,not-an-email,Python,21
+Too Young,young@example.com,React,9
+Asha Again,asha.patil@example.com,Python,21
+No Age,noage@example.com,SQL,
